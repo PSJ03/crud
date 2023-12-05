@@ -1,5 +1,5 @@
 import Navbar from '@/components/Navbar'
-import { NextAuthProvider } from '@/components/providers'
+import { NextAuthProvider } from '@/components/Providers'
 import { Inter } from 'next/font/google'
 import './globals.css'
 
